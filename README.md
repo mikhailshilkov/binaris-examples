@@ -1,1 +1,1 @@
-# binaris-examples
+# Examples of Binaris functions

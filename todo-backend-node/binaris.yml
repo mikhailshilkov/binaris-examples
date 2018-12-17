@@ -8,7 +8,7 @@ functions:
       BINARIS_ACCOUNT_NUMBER:
   redis_todobackend:
     file: redis.js
-    entrypoint: handler1
+    entrypoint: handler
     runtime: node8
     env:
       REDIS_PORT:
